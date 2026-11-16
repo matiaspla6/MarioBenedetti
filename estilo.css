@@ -1,0 +1,51 @@
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+#navegacion{
+    background-color: black;
+    color:white;
+}
+
+#container {
+    background-color: #FFFFE0;
+    width: 80%;
+    height: 90%;
+    margin: auto;
+
+}
+
+img {
+    width: 40px;
+    height: 40px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+#cabecera {
+
+    background-color: #FAEBD7;
+    height: 50px;
+
+}
+
+body {
+    background-color: #778899;
+}
+
+#pareja1{
+    display: flex;
+    margin: 10px;
+}
+#pareja2{
+    display: flex;
+    margin: 10px;
+    
+}
+.libros{
+border: solid grey 1px;
+
+}
